@@ -85,7 +85,7 @@ six==1.12.0
 sqlparse==0.3.0
 texttable==0.9.1
 twilio==6.29.4
-Twisted==19.7.0
+Twisted==22.1.0
 txaio==18.8.1
 urllib3==1.24.3
 vine==1.3.0
